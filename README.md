@@ -13,6 +13,25 @@ This is done in purpose to replicate the Hulu streaming app. It is done just in 
 
 ![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/e19df0a9-6a58-4d1a-8c2b-4a528429c85a)
 
+<br>
+
+![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/95491dae-e964-47b0-b76d-73ad82fed892)
+
+<br>
+
+![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/2b63b6b5-b879-4ccb-a8fb-ca13df9af891)
+
+<br>
+
+![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/fbddac83-2caa-4f41-adee-2da3afb5e389)
+
+<br>
+
+![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/318f4b01-dd57-4462-8d04-155f2f737efe)
+
+<br>
+
+![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/0506ccb9-637b-44d3-97d4-09ca71af8289)
 
 ## What is in it?
 
