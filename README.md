@@ -7,10 +7,6 @@ This is done in purpose to replicate the Hulu streaming app. It is done just in 
 
 <br>
 
-![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/0d6e0c41-e1d0-4700-b8e4-4d16e788f065)
-
-<br>
-
 ![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/e19df0a9-6a58-4d1a-8c2b-4a528429c85a)
 
 <br>
@@ -32,6 +28,10 @@ This is done in purpose to replicate the Hulu streaming app. It is done just in 
 <br>
 
 ![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/0506ccb9-637b-44d3-97d4-09ca71af8289)
+
+<br>
+
+![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/0d6e0c41-e1d0-4700-b8e4-4d16e788f065)
 
 ## What is in it?
 
