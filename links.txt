@@ -1,0 +1,49 @@
+Example data
+____________________________________________________________________________
+
+backdrop_path: "/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg"
+​​​​
+first_air_date: "2019-07-25"
+​​​​
+genre_ids: Array [ 10759, 10765 ]
+​​​​
+id: 76479
+​​​​
+media_type: "tv"
+​​​​
+name: "The Boys"
+​​​​
+origin_country: Array [ "US" ]
+​​​​
+original_language: "en"
+​​​​
+original_name: "The Boys"
+​​​​
+overview: "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty."
+​​​​
+popularity: 1739.192
+​​​​
+poster_path: "/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+​​​​
+vote_average: 8.4
+​​​​
+vote_count: 1857
+
+____________________________________________________________________________
+
+{
+  adult: false,
+  backdrop_path: '/ffJff2KWHd2rbwYWPRxKxTBypRB.jpg',
+  genre_ids: [ 80, 18 ],
+  id: 168672,
+  original_language: 'en',
+  original_title: 'American Hustle',
+  overview: 'A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.',
+  popularity: 16.776,
+  poster_path: '/koXGRfatN0tURFWMA0Keb0p0Gtg.jpg',
+  release_date: '2013-12-12',
+  title: 'American Hustle',
+  video: false,
+  vote_average: 6.8,
+  vote_count: 5517
+}
