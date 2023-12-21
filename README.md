@@ -2,8 +2,7 @@
 This is done in purpose to replicate the Hulu streaming app. It is done just in purpose of learning and implementing things with react. This is a portfolio project that I did most of the parts on my own. Anyway the thing that started off this project was a youtube video from **[Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)**.
 
 <br>
-# Demo 
----
+
 ![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/c952c804-2f3d-465f-be22-b14a17b2b753)
 
 ![image](https://github.com/Kritagya-web/Hulu_Clone/assets/64582018/0d6e0c41-e1d0-4700-b8e4-4d16e788f065)
